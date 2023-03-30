@@ -1,2 +1,2 @@
-# aigcjujidi.github.io
+# aigcjujidi
 AIGC聚集地
